@@ -4,6 +4,12 @@ This project uses an Arduino and IR break-beam sensors to calculate the velocity
 🧩 How It Works
 The system monitors two independent racing lanes. When a car passes the first sensor, it triggers a timer. When it breaks the second beam, the system stops the timer, calculates the velocity based on the fixed distance between sensors, and renders the result to a MAX7219 LED display.
 
+
+
+https://github.com/user-attachments/assets/73f6bc99-b4e9-4745-91a6-5b4594b3e304
+
+
+
 Key Features
 Dual-Lane Tracking: Handles two simultaneous races using non-blocking logic.
 
